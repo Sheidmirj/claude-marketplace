@@ -1,0 +1,11 @@
+{
+  "name": "ground-ecommerce",
+  "description": "AI-powered marketing workflows for DTC and ecommerce teams by Ground",
+  "plugins": [
+    {
+      "name": "ecommerce-marketing-skills",
+      "description": "13 AI workflow systems for UGC campaigns, SEO content, and affiliate program management.",
+      "git": "https://github.com/Join-Ground-AI/Ecommerce-Marketing-Skills.git"
+    }
+  ]
+}
