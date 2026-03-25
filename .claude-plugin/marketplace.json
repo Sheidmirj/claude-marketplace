@@ -10,8 +10,8 @@
       "name": "ecommerce-marketing-skills",
       "description": "13 AI workflow systems for UGC campaigns, SEO content, and affiliate program management.",
       "source": {
-        "source": "github",
-        "repo": "Join-Ground-AI/Ecommerce-Marketing-Skills"
+        "source": "url",
+        "url": "https://github.com/Join-Ground-AI/Ecommerce-Marketing-Skills.git"
       }
     }
   ]
